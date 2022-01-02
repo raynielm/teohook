@@ -8,6 +8,6 @@ If growtopia crashes, make sure to put the items.dat uploaded here in cache fold
 
 if you cant login with main gt, Open menu, go to Misc > disable login spoofing.
 
-Discord: Rayniel#2423
+Discord: rayy#5664. my old one got banned
 
 
